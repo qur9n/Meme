@@ -9,6 +9,6 @@
     "custom-message-1": "",
     "custom-message-2": "",
     "login-enabled": "true",
-    "register-cmd": "/register 112233",
+    "register-cmd": "/register 112233 112233",
     "login-cmd": "/login 112233"
 }
